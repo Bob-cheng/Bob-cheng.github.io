@@ -1,0 +1,6 @@
+@inproceedings{lao2024gptuner,
+      title={GPTuner: A Manual-Reading Database Tuning System via GPT-Guided Bayesian Optimization}, 
+      author={Jiale Lao and Yibo Wang and Yufei Li and Jianping Wang and Yunjia Zhang and Zhiyuan Cheng and Wanghu Chen and Mingjie Tang and Jianguo Wang},
+      booktitle={International Conference on Very Large Data Bases (VLDB)},
+      year={2024}
+}

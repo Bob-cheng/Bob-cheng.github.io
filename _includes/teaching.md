@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
 
-<ul>
+<!-- <ul>
   <li>
     Head Teaching Assistant, <a href="https://cms.sic.saarland/hlcvss22/">High-Level Computer Vision</a> at <a href="https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1">Max Planck Institutes</a>, 2022
   </li>
@@ -15,4 +15,7 @@
   <li>
     Teaching Assistant, <a href="">Digital Image Processing</a> at <a href="http://www.tju.edu.cn/english/index.htm/">Tianjin University</a>, 2017
   </li>
-</ul>
+</ul> -->
+
+
+- Teaching Assistant, [CS381 Introduction to the Analysis of Algorithms](https://www.cs.purdue.edu/homes/jblocki/courses/381_Fall19/), 2020 Fall

@@ -1,9 +1,18 @@
 <h1 id="invited-talks"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Invited Talks</h2>
+<h2 style="margin: 60px 0px 10px;">Talks</h2>
 
+<h4 style="margin:0 10px 0;">Adversarial Training of Self-supervised Monocular Depth Estimation.</h4>
 
-<h4 style="margin:0 10px 0;">Learning from Imperfect Data: Incremental Learning and Few-shot Learning.</h4>
+- [Workshop on Scene Representations For Autonomous Driving](https://iclr.cc/virtual/2023/workshop/12831), ICLR, May 2023
+- [Youth PhD Talk-ICLR 2023](https://www.bilibili.com/video/BV1Ym4y1E7ck?t=2504.2), AI TIME, May 2023
+
+<!-- <ul style="margin:0 0 5px;">
+  <li><a href="https://iclr.cc/virtual/2023/workshop/12831"><autocolor>Workshop on Scene Representations For Autonomous Driving, ICLR, May 2023.</autocolor></a></li>
+  <li><a href="https://www.bilibili.com/video/BV1Ym4y1E7ck?t=2504.2"><autocolor>Youth PhD Talk-ICLR 2023, AI TIME, May 2023.</autocolor></a></li>
+</ul> -->
+
+<!-- <h4 style="margin:0 10px 0;">Learning from Imperfect Data: Incremental Learning and Few-shot Learning.</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://bair.berkeley.edu/"><autocolor>Berkeley Artificial Intelligence Research Lab (BAIR), UC Berkeley, October 2023.</autocolor></a></li>
@@ -34,4 +43,4 @@
 
 <ul style="margin:0 0 20px;">
   <li>Nanyang Technological University, July 2019.</li>
-</ul>
+</ul> -->

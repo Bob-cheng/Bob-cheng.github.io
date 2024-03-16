@@ -1,0 +1,8 @@
+@inproceedings{cheng2022physical,
+  title={Physical attack on monocular depth estimation with optimal adversarial patches},
+  author={Cheng, Zhiyuan and Liang, James and Choi, Hongjun and Tao, Guanhong and Cao, Zhiwen and Liu, Dongfang and Zhang, Xiangyu},
+  booktitle={European conference on computer vision},
+  pages={514--532},
+  year={2022},
+  organization={Springer}
+}

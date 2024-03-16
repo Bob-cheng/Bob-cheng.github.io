@@ -1,44 +1,44 @@
 # Basic Information 
-title: Yaoyao Liu
-position: Postdoctoral Fellow
-affiliation: Johns Hopkins University
-affiliation_link: https://cs.jhu.edu/
-affiliation_logo: ./assets/img/university-logo-small-horizontal-white-156eae9527.svg
-email: yyliu (at) cs.jhu.edu
-email2: yliu538 (at) jhu.edu
+title: Zhiyuan Cheng
+position: Ph.D. Candidate in Computer Science
+affiliation: Purdue University
+affiliation_link: https://cs.purdue.edu/
+# affiliation_logo: ./assets/img/purdue_logo.svg
+email: cheng443 (at) purdue (dot) edu
+# email2: yliu538 (at) jhu.edu
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.cs.jhu.edu/~yyliu/
-description: Yaoyao Liu is a postdoctoral fellow at Johns Hopkins University. His research lies in meta-learning, incremental learning, and image generation.
+keywords: zhiyuan cheng, cheng zhiyuan, zhiyuan cheng purdue, zhiyuan purdue
+canonical: https://bob-cheng.github.io/
+description: Zhiyuan Cheng is a PhD candidate at Purdue University. His research interest lies in AI security, machine learning and computer vision.
 
 # The option is used to enable the Johns Hopkins template.
-enable_hopkins_logo: true
+enable_hopkins_logo: false
 
 # The option is used to show the last update time.
-enable_last_update: false
+enable_last_update: true
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
-cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+google_scholar: https://scholar.google.com/citations?user=dVchB-gAAAAJ
+# cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+github_link: https://github.com/bob-cheng/
+linkedin: https://www.linkedin.com/in/bobchengzy/
+# twitter: https://twitter.com/YaoyaoLiu1/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/avatar.jpg
+favicon: ./assets/img/favicon-purdue.ico
+favicon_dark: ./assets/img/favicon-purdue.ico
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: # Feel free to use my website's source code.
+footnote_link: # https://github.com/yaoyao-liu/minimal-light
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
+# clustrmaps_id: CJD8XwsJhSyQ6sbsU-Gw0cNcUlbah7KW3xvHN2QlwW0
 
 # The following files will be removed from the generated website.
 exclude:

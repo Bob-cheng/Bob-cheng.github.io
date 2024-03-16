@@ -1,0 +1,7 @@
+@inproceedings{choi2022rvplayer,
+  title={Rvplayer: Robotic vehicle forensics by replay with what-if reasoning},
+  author={Choi, Hongjun and Cheng, Zhiyuan and Zhang, Xiangyu},
+  booktitle={29th Annual Network and Distributed System Security Symposium, NDSS 2022},
+  year={2022},
+  organization={The Internet Society}
+}
