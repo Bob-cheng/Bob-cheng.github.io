@@ -4,7 +4,7 @@ main:
     authors: <strong>Zhiyuan Cheng</strong>, Hongjun Choi, Shiwei Feng, James Chenhao Liang, Guanhong Tao, Dongfang Liu, Michael Zuzak, Xiangyu Zhang
     conference_short: ICLR'24
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-    pdf: https://openreview.net/pdf?id=3VD4PNEt5q
+    pdf: https://arxiv.org/pdf/2304.14614.pdf
     # code: https://github.com/wufeim/DST3D
     # page: https://ccvl.jhu.edu/3D-DST/
     bibtex: ./assets/text/FusionAttack.txt

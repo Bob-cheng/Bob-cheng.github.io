@@ -17,7 +17,7 @@
 }
 
   .topnav img {
-    margin-bottom:-16.5pt;
+    margin-bottom:-14.5pt;
     margin-top:-12.5pt;
     margin-left:30%;
   }
@@ -85,7 +85,7 @@
    @media print, screen and (max-width: 1600px) and (min-width: 1401px) { 
 
     .topnav img {
-        margin-left:16%;
+        margin-left:19%;
       }
     .topnav a.right {
         margin-right:18%;

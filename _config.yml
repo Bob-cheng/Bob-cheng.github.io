@@ -3,7 +3,8 @@ title: Zhiyuan Cheng
 position: Ph.D. Candidate in Computer Science
 affiliation: Purdue University
 affiliation_link: https://cs.purdue.edu/
-# affiliation_logo: ./assets/img/purdue_logo.svg
+nav_logo: ./assets/img/PU-H.svg
+nav_link: https://cs.purdue.edu/
 email: cheng443 (at) purdue (dot) edu
 # email2: yliu538 (at) jhu.edu
 
@@ -28,8 +29,8 @@ linkedin: https://www.linkedin.com/in/bobchengzy/
 
 # Images 
 avatar: ./assets/img/avatar.jpg
-favicon: ./assets/img/favicon-purdue.ico
-favicon_dark: ./assets/img/favicon-purdue.ico
+favicon: ./assets/img/favicon-user.png
+favicon_dark: ./assets/img/favicon-user.png
 
 # Footnotes
 footnote: # Feel free to use my website's source code.
