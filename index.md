@@ -6,9 +6,9 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a Ph.D. candidate in the [Department of Computer Science](https://cs.purdue.edu) at [Purdue University](https://purdue.edu), and I am fortunate to be advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). I also work closely with [Prof. Dongfang Liu](https://dongfang-liu.github.io/) from [RIT](https://www.rit.edu/).  Previously, I obtained my bachelor’s degree with distinction in Computer Science and Technology from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2019, and I am grateful to have [Prof. Xiaoguang Niu (WHU)](https://scholar.google.com/citations?user=wxRS8nIAAAAJ) and [Prof. Jiannong Cao (PolyU)](https://www4.comp.polyu.edu.hk/~csjcao/) as my initial advisors during my undergraduate studies. 
+I am currently a Ph.D. candidate in the [Department of Computer Science](https://cs.purdue.edu) at [Purdue University](https://purdue.edu), and I am fortunate to be advised by Samuel Conte Professor [Xiangyu Zhang](https://www.cs.purdue.edu/homes/xyzhang/). I also work closely with [Prof. Dongfang Liu](https://dongfang-liu.github.io/) and [Prof. Mingjie Tang](https://merlintang.github.io/).  Previously, I obtained my bachelor’s degree with distinction in Computer Science from [Wuhan University (WHU)](https://en.whu.edu.cn/) in 2019, and I am grateful to have [Prof. Xiaoguang Niu (WHU)](https://scholar.google.com/citations?user=wxRS8nIAAAAJ) and [Prof. Jiannong Cao (PolyU)](https://www4.comp.polyu.edu.hk/~csjcao/) as my initial advisors during my undergraduate studies. 
 
-My research interest lies in the intersection of **Artificial Intelligence** and **Security**, with a special focus on enhancing the robustness and security of AI-driven applications (e.g., 3D perception, autonomous driving, AR/VR, etc.). Additionally, I explore the security topics around AI-generated content (AIGC) and foundation models.
+My research interest lies at the intersection of **Artificial Intelligence** and **Security**, with a special focus on enhancing the robustness and security of AI-driven applications such as 3D perception, autonomous driving, AR/VR, etc. Additionally, I explore the security topics around AI-generated content (AIGC) and foundation models.
 
 
 <!-- {% include_relative _includes/news.md %} -->

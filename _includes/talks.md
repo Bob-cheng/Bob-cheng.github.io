@@ -2,10 +2,16 @@
 
 <h2 style="margin: 60px 0px 10px;">Talks</h2>
 
-<h4 style="margin:0 10px 0;">Adversarial Training of Self-supervised Monocular Depth Estimation.</h4>
+<h4 style="margin:0 10px 0;">Towards Secure and Robust Perception of Autonomous Vehicles in the Physical World</h4>
+
+- College of Computer Science, Chongqing University, Jan. 2024
+
+<h4 style="margin:0 10px 0;">Adversarial Training of Self-supervised Monocular Depth Estimation</h4>
 
 - [Workshop on Scene Representations For Autonomous Driving](https://iclr.cc/virtual/2023/workshop/12831), ICLR, May 2023
 - [Youth PhD Talk-ICLR 2023](https://www.bilibili.com/video/BV1Ym4y1E7ck?t=2504.2), AI TIME, May 2023
+
+
 
 <!-- <ul style="margin:0 0 5px;">
   <li><a href="https://iclr.cc/virtual/2023/workshop/12831"><autocolor>Workshop on Scene Representations For Autonomous Driving, ICLR, May 2023.</autocolor></a></li>

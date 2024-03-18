@@ -1,0 +1,6 @@
+@inproceedings{lao2024gptunerdemo,
+      title={A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System}, 
+      author={Jiale Lao and Yibo Wang and Yufei Li and Jianping Wang and Yunjia Zhang and Zhiyuan Cheng and Wanghu Chen and Mingjie Tang and Jianguo Wang},
+      booktitle={International Conference on Management of Data (SIGMOD)},
+      year={2024}
+}
