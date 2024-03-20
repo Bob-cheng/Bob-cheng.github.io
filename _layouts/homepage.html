@@ -53,7 +53,10 @@
       }
       }
    </script>
-   
+
+   {% if site.google_analytics and jekyll.environment == 'production' %}
+   {% include analytics.html %}
+   {% endif %}
 
   </head>
   <body>
@@ -190,9 +193,10 @@
 
       <br>
       {% if site.clustrmaps_id %}
-      <div style="width:100px; pointer-events: none;">
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=153&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
-      </div>
+      <!-- <div style="width:100px; pointer-events: none;">
+      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=1&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361'></script>
+      </div> -->
+      <img src="//clustrmaps.com/map_v2.png?cl=043361&w=1&t=n&d={{ site.clustrmaps_id }}&co=ffffff&cmo=3eb7f0&ct=043361" style="display: none;"/>
       {% endif %}
       
       </section>

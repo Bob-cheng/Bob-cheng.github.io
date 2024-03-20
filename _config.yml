@@ -40,6 +40,7 @@ footnote_link: # https://github.com/yaoyao-liu/minimal-light
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
 clustrmaps_id: 1jxGdyO9mQ6iHzvC_n3lbwmTV3-9qtkf0vjxGwvTf-o
+google_analytics: G-9VC44PZMKM
 
 # The following files will be removed from the generated website.
 exclude:
