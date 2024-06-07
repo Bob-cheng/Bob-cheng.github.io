@@ -2,6 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Honors & Awards</h2>
 
+- Conference Travel Grant Awards, ICLR 2023/24, ICML 2024
 - Ross Fellowship, Purdue University, 2019
 <!-- - Outstanding Graduated Student, Wuhan University, 2019 -->
 - Outstanding Undergraduate Thesis, Wuhan University, 2019
