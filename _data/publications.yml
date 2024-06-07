@@ -1,5 +1,15 @@
 main:
-
+  - title: "Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks"
+    authors: <u>Zhiyuan Cheng</u>, Cheng Han, James Liang, Qifan Wang, Xiangyu Zhang, Dongfang Liu
+    conference_short: TPAMI'24
+    conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2024.
+    # pdf: https://arxiv.org/pdf/2404.00924
+    # code: https://github.com/wufeim/DST3D
+    # page: https://ccvl.jhu.edu/3D-DST/
+    bibtex: ./assets/text/MDEDefence_TPAMI.txt
+    image: ./assets/teaser/MDEDefence_TPAMI.png
+  
+  
   - title: "BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks"
     authors: <u>Zhiyuan Cheng</u>, Zhaoyi Liu, Tengda Guo, Shiwei Feng, Dongfang Liu, Mingjie Tang, Xiangyu Zhang
     conference_short: ICML'24
