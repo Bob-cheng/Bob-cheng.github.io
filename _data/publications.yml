@@ -3,7 +3,7 @@ main:
     authors: <u>Zhiyuan Cheng</u>, Cheng Han, James Liang, Qifan Wang, Xiangyu Zhang, Dongfang Liu
     conference_short: TPAMI'24
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, 2024.
-    # pdf: https://arxiv.org/pdf/2404.00924
+    pdf: ./assets/paper/TPAMI_self_sup_adv_MDE.pdf
     # code: https://github.com/wufeim/DST3D
     # page: https://ccvl.jhu.edu/3D-DST/
     bibtex: ./assets/text/MDEDefence_TPAMI.txt
@@ -35,7 +35,7 @@ main:
     authors: Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, Yunjia Zhang, <u>Zhiyuan Cheng</u>, Wanghu Chen, Mingjie Tang, Jianguo Wang
     conference_short: VLDB'24
     conference: International Conference on Very Large Data Bases <strong>(VLDB)</strong>, 2024.
-    pdf: https://arxiv.org/pdf/2311.03157.pdf
+    pdf: https://github.com/SolidLao/GPTuner/blob/main/gptuner-technical-report.pdf
     # code: https://github.com/wufeim/DST3D
     # page: https://ccvl.jhu.edu/3D-DST/
     bibtex: ./assets/text/GPTuner.txt
@@ -46,7 +46,7 @@ main:
     authors: Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, Yunjia Zhang, <u>Zhiyuan Cheng</u>, Wanghu Chen, Mingjie Tang, Jianguo Wang
     conference_short: SIGMOD'24
     conference: International Conference on Management of Data <strong>(SIGMOD)</strong>, 2024.
-    pdf: ./assets/paper/gptuner_sigmoddemo_2024.pdf
+    pdf: https://dl.acm.org/doi/10.1145/3626246.3654739
     # code: https://github.com/wufeim/DST3D
     # page: https://ccvl.jhu.edu/3D-DST/
     bibtex: ./assets/text/GPTuner-Demo.txt

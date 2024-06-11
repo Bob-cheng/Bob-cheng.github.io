@@ -1,6 +1,6 @@
 @inproceedings{cheng2024badpart,
   title={BadPart: Unified Black-box Adversarial Patch Attacks against Pixel-wise Regression Tasks},
   author={Cheng, Zhiyuan and Liu, Zhaoyi and Guo, Tengda and Feng, Shiwei and Liu, Dongfang and Tang, Mingjie and Zhang, Xiangyu},
-  journal={The Forty-first International Conference on Machine Learning},
+  booktitle={The Forty-first International Conference on Machine Learning},
   year={2024}
 }
