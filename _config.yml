@@ -1,6 +1,6 @@
 # Basic Information 
 title: Zhiyuan Cheng
-position: Ph.D. Candidate in Computer Science
+position: Ph.D. in Computer Science
 affiliation: Purdue University
 affiliation_link: https://cs.purdue.edu/
 nav_logo: ./assets/img/PU-H.svg
@@ -11,7 +11,7 @@ email: cheng443 (at) purdue (dot) edu
 # Search Engine Optimization (SEO)
 keywords: zhiyuan cheng, cheng zhiyuan, zhiyuan cheng purdue, zhiyuan purdue
 canonical: https://bob-cheng.github.io/
-description: Zhiyuan Cheng is a PhD candidate at Purdue University. His research interest lies in AI security, machine learning and computer vision.
+description: Zhiyuan Cheng obtained his Ph.D. degree at Purdue University in 2024. His research interest lies in AI security, machine learning and computer vision.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
