@@ -1,14 +1,14 @@
 main:
 
-  - title: "ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation"
-    authors: Shiwei Feng, Yapeng Ye, Qingkai Shi, <u>Zhiyuan Cheng</u>, Xiangzhe Xu, Siyuan Cheng, Hongjun Choi, Xiangyu Zhang
-    conference_short: ASE'24
-    conference: IEEE/ACM International Conference on Automated Software Engineering <strong>(ASE'24)</strong>, 2024.
-    # pdf: ./assets/paper/TPAMI_self_sup_adv_MDE.pdf
-    # code: https://github.com/wufeim/DST3D
-    # page: https://ccvl.jhu.edu/3D-DST/
-    # bibtex: ./assets/text/MDEDefence_TPAMI.txt
-    # image: ./assets/teaser/MDEDefence_TPAMI.png
+  # - title: "ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation"
+  #   authors: Shiwei Feng, Yapeng Ye, Qingkai Shi, <u>Zhiyuan Cheng</u>, Xiangzhe Xu, Siyuan Cheng, Hongjun Choi, Xiangyu Zhang
+  #   conference_short: ASE'24
+  #   conference: IEEE/ACM International Conference on Automated Software Engineering <strong>(ASE'24)</strong>, 2024.
+  #   # pdf: ./assets/paper/TPAMI_self_sup_adv_MDE.pdf
+  #   # code: https://github.com/wufeim/DST3D
+  #   # page: https://ccvl.jhu.edu/3D-DST/
+  #   # bibtex: ./assets/text/MDEDefence_TPAMI.txt
+  #   # image: ./assets/teaser/MDEDefence_TPAMI.png
 
   - title: "Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks"
     authors: <u>Zhiyuan Cheng</u>, Cheng Han, James Liang, Qifan Wang, Xiangyu Zhang, Dongfang Liu
