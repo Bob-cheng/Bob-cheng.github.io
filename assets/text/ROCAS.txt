@@ -1,0 +1,6 @@
+@inproceedings{feng2024rocas,
+  title={ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation},
+  author={Feng, Shiwei and Ye, Yapeng and Shi, Qingkai and Cheng, Zhiyuan and Xu, Xiangzhe and Cheng, Siyuan and Choi, Hongjun and Zhang, Xiangyu},
+  booktitle={The 39th IEEE/ACM International Conference on Automated Software Engineering},
+  year={2024},
+}

@@ -1,7 +1,9 @@
 @article{cheng2024self,
   title={Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks},
-  author={Zhiyuan Cheng, Cheng Han, James Liang, Qifan Wang, Xiangyu Zhang, Dongfang Liu},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  author={Cheng, Zhiyuan and Han, Cheng and Liang, James and Wang, Qifan and Zhang, Xiangyu and Liu, Dongfang},
+  journal={IEEE Transactions on Pattern Analysis \& Machine Intelligence},
+  number={01},
+  pages={1--17},
   year={2024},
-  publisher={IEEE}
+  publisher={IEEE Computer Society}
 }
