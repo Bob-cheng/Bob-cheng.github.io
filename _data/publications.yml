@@ -9,6 +9,7 @@ main:
     # page: https://ccvl.jhu.edu/3D-DST/
     bibtex: ./assets/text/ROCAS.txt
     image: ./assets/teaser/ROCAS.png
+    notes: Distinguished Paper Award
 
   - title: "Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks"
     authors: <u>Zhiyuan Cheng</u>, Cheng Han, James Liang, Qifan Wang, Xiangyu Zhang, Dongfang Liu
