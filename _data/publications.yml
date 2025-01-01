@@ -52,7 +52,7 @@ main:
     # page: https://ccvl.jhu.edu/3D-DST/
     bibtex: ./assets/text/GPTuner.txt
     image: ./assets/teaser/GPTuner.png
-    # notes: Spotlight
+    notes: ACM SIGMOD Research Highlight Award
 
   - title: "A Demonstration of GPTuner: A GPT-Based Manual-Reading Database Tuning System"
     authors: Jiale Lao, Yibo Wang, Yufei Li, Jianping Wang, Yunjia Zhang, <u>Zhiyuan Cheng</u>, Wanghu Chen, Mingjie Tang, Jianguo Wang
